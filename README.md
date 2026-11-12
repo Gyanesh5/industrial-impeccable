@@ -13,8 +13,6 @@
 /plugin install industrial-impeccable
 ```
 
-**其他 agent（Codex / Cursor / Gemini / zcode 等）**：把 `skills/industrial-impeccable/` 目录复制或软链到该 agent 的技能目录（如 `~/.agents/skills/industrial-impeccable`，多数工具的 vendor-neutral 标准位）。
-
 **Hermes**：`hermes skills install`（以本仓 git 地址为来源）。
 
 ## 分层设计
