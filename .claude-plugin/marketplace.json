@@ -1,0 +1,31 @@
+{
+  "name": "industrial-impeccable",
+  "id": "industrial-impeccable",
+  "owner": {
+    "name": "Gyanesh5"
+  },
+  "metadata": {
+    "description": "Industrial vision HMI design rules on the impeccable file system: design tokens, 8 surface-family references, project templates, agent guardrails",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "industrial-impeccable",
+      "source": "./",
+      "description": "Design rules and guardrails for industrial machine-vision web UIs: dual design tokens (dark viewport / light chrome), semantic alarm-safe colors, per-surface-family references (camera viewport, annotation canvas, 3D scene, monitoring, alarms, forms, wizards, reports), and project file templates.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Gyanesh5"
+      },
+      "keywords": [
+        "hmi",
+        "industrial",
+        "machine-vision",
+        "design-system",
+        "isa-101"
+      ],
+      "category": "design",
+      "strict": false
+    }
+  ]
+}

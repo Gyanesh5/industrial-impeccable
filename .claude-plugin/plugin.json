@@ -1,0 +1,20 @@
+{
+  "name": "industrial-impeccable",
+  "description": "Industrial vision HMI design rules: design tokens, per-surface-family rules (camera viewport, annotation canvas, 3D scene, monitoring, alarms, forms/tables, wizards, reports), and agent guardrails for machine-vision web UIs (CNC vision + cobot production lines, Vue3 + ElementPlus + ECharts + three.js).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gyanesh5"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hmi",
+    "industrial",
+    "machine-vision",
+    "design-system",
+    "isa-101",
+    "impeccable",
+    "ui",
+    "ux"
+  ],
+  "skills": "./skills/"
+}
