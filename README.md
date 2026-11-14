@@ -1,5 +1,8 @@
 # industrial-impeccable
 
+
+
+> **已迁移**：本仓库已收编进 [Gyanesh5/agent-conventions](https://github.com/Gyanesh5/agent-conventions)（唯一真源，三合一规范插件：plain-zh + coding-conventions + industrial-impeccable）。本仓库已归档、只读保历史。已安装用户请按新仓库 README 一条命令迁移。
 工业视觉产线 Web 界面的设计规则插件：设计系统规则、八个界面族的深规则、项目文件底稿、代理执行守则。适用于机器视觉 + 协作机器人产线前端（Vue3 + ElementPlus + ECharts + three.js + FastAPI 技术栈，亦适用于其他栈）。
 
 按 [impeccable](https://github.com/pbakaus/impeccable) 的文件体系组织并可作为其行业扩展；亦可脱离 impeccable 单独使用（纯 Markdown 知识库 + 模板）。
